@@ -1,0 +1,267 @@
+﻿@model string
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tra Cứu Phạt Nguội Ô Tô - Xe Máy</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            background-image: url('https://cdnimage.daihoidang.vn/t800/uploaded/vnp/uploaded/lanlt/2020_08_25/ttxvn_20200825canh_sat_nu1.jpg');
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.3); 
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); 
+            max-width: 600px;
+            width: 100%;
+            backdrop-filter: blur(10px); 
+            -webkit-backdrop-filter: blur(10px);
+        }
+
+
+
+        h1 {
+            font-size: 24px;
+            color: #333333;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-size: 16px;
+            color: #333333;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        select, input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+
+        input[type="text"] {
+            margin-top: 10px;
+        }
+
+        .note {
+            font-size: 14px;
+            color: #666666;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+            .note span {
+                color: #007BFF;
+            }
+
+        button {
+            background-color: #007BFF;
+            color: #ffffff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            display: block;
+            margin: 20px auto;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        .results {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .radio-form {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin: 20px 0;
+            gap: 40px; 
+        }
+
+        .radio {
+            display: flex;
+            align-items: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            position: relative;
+        }
+
+        .radio input[type="radio"] {
+            appearance: none;
+            width: 22px; 
+            height: 22px;
+            border-radius: 50%;
+            border: 2px solid #007bff;
+            margin-right: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .radio input[type="radio"]:checked {
+            background-color: #007bff;
+            border-color: #007bff;
+            transform: scale(1.1); 
+        }
+
+        .radio label {
+            cursor: pointer;
+            font-size: 18px;
+            color: #333;
+            transition: color 0.3s ease;
+            line-height: 1.2;
+        }
+
+        .radio input[type="radio"]::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 12px;
+            height: 12px;
+            background-color: #fff;
+            border-radius: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            transition: transform 0.3s ease;
+        }
+
+        ul {
+            list-style-type: none; 
+            padding: 0;
+            margin: 0; 
+            font-family: Arial, sans-serif; 
+            line-height: 1.5; 
+        }
+
+        li {
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            padding: 8px 0; 
+            border-bottom: 1px solid #ddd; 
+        }
+
+        li:last-child {
+            border-bottom: none;
+        }
+
+        li span {
+            font-size: 14px;
+            color: #333;
+        }
+
+        li span:first-child {
+            font-weight: bold;
+            flex: 1; 
+        }
+
+        li span:last-child {
+            text-align: center;
+            flex: 1; 
+        }
+
+
+        .label {
+            font-weight: bold;
+            margin-right: 20px;
+        }
+
+        .value {
+            margin-left: auto;
+            font-weight: normal;
+            color: #555;
+        }
+
+        .custom-heading {
+            font-weight: bold;
+            font-size: 18px;
+            margin: 10px 0;
+            color: #333;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Phần mềm Tra Cứu Phạt Nguội Ô Tô - Xe Máy</h1>
+        <form id="tracuuForm" method="post">
+            <div class="form-group">
+               <div class="radio-form">
+                    <div class="radio">
+                        <input type="radio" id="vehicleType" name="vehicleType" value="4" />
+                        <label>
+                            Ô tô
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <input type="radio" id="vehicleType" name="vehicleType" value="2" />
+                        <label>
+                            Xe máy
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <input type="radio" id="vehicleType" name="vehicleType" value="2" />
+                        <label>
+                            Xe máy điện
+                        </label>
+                    </div>
+               </div>
+            </div>
+            <div class="form-group">
+                <label for="inputText">Nhập biển số xe:</label>
+                <input type="text" id="ten" name="ten" placeholder="ví dụ: 74D99999" required>
+                <div class="note">
+                    Nhập biển số xe ví dụ: <span>30a77777, 30A99999, 43A45678, 43A-444.67, 51F-123.45</span>
+                </div>
+            </div>  
+            <button type="submit">Tra cứu</button>
+        </form>
+
+       <div id="result">
+
+       </div>
+           
+        <script>
+            $(function() {
+                $("#tracuuForm").submit(function(e) {
+                    e.preventDefault();
+                    var tenValue = $('#ten').val();
+
+                    var vehicleOption = $('input[name="vehicleType"]:checked').val();
+                    $.ajax({
+                        type: "POST",
+                        url: "/Home/TraCuu",
+                        data: { ten: tenValue, vehicleOption: vehicleOption }, 
+                        success: function (data) {
+                            $('#result ').html(data);
+                        },
+                        error: function() {
+                            console.error("có lỗi xảy ra");
+                        }
+                    });
+                });
+            })
+        </script>
+    </div>
+</body>
