@@ -7,32 +7,40 @@
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\models\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\models\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\models\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\models\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|d:\\pv\\tracuuphatnguoi\\project\\tracuuphatnguoi\\tracuuphatnguoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0CD33291-54D2-4C93-856C-7454474D09C7}|TraCuuPhatNguoi\\TraCuuPhatNguoi.csproj|solutionrelative:tracuuphatnguoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\_ViewImports.cshtml",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T00:33:33.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T00:33:33.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -91,12 +90,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T00:24:37.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T00:24:37.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\appsettings.Development.json",
@@ -104,12 +102,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T14:35:37.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T14:35:37.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Program.cs",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Program.cs",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T06:58:23.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T06:58:23.674Z"
             },
             {
               "$type": "Document",
@@ -126,16 +122,16 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TraCuuPhatNguoi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABNAAAAAAAAAA==",
+              "ToolTip": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "TraCuuPhatNguoi\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T06:56:09.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Models\\ErrorViewModel.cs",
@@ -143,12 +139,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:21:19.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T15:21:19.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DbContext.cs",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Db\\DbContext.cs",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Db\\DbContext.cs",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Db\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:20:45.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T15:20:45.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tracuu.cs",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Models\\Tracuu.cs",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Models\\Tracuu.cs",
@@ -174,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\Shared\\_Layout.cshtml",
@@ -187,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\Home\\Privacy.cshtml",
@@ -195,12 +189,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T14:34:57.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T14:34:57.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Properties\\launchSettings.json",
@@ -208,12 +201,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T14:36:39.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T14:36:39.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\Shared\\Error.cshtml",
@@ -221,12 +213,11 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T06:57:56.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T06:57:56.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\_ViewStart.cshtml",
@@ -234,18 +225,17 @@
               "RelativeToolTip": "TraCuuPhatNguoi\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T07:05:34.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T07:05:34.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TraCuuPhatNguoi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "TraCuuPhatNguoi\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIBAAArAAAAAAAAAA==",
+              "ToolTip": "D:\\PV\\TraCuuphatNguoi\\Project\\TraCuuPhatNguoi\\TraCuuPhatNguoi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TraCuuPhatNguoi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAP0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-15T06:57:43.594Z",
               "EditorCaption": ""
