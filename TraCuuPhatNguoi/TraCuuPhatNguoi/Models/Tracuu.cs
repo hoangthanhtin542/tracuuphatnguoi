@@ -7,5 +7,6 @@
         public string MaHoSo { get; set; }
         public string BienSo { get; set; }
         public string SoChoNgoi { get; set; }
+
     }
 }
